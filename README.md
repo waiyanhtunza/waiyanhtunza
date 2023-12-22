@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me beach :)
 https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine
+https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c
 
 contact@za.com.mm
 Jmim6VG3NKxYQLZ
