@@ -8,6 +8,10 @@ https://php.earth/
 
 Create New Programming Language
 https://pgrandinetti.github.io/compilers/page/how-to-build-a-new-programming-language/
+
+Reading Book
+https://medium.com/@NovelNestBooks/10-eye-opening-books-recommended-by-sam-altman-prepare-to-be-blown-away-like-i-was-56501fc0aea6
+
 contact@za.com.mm
 Jmim6VG3NKxYQLZ
 <!---
