@@ -12,6 +12,9 @@ https://pgrandinetti.github.io/compilers/page/how-to-build-a-new-programming-lan
 Reading Book
 https://medium.com/@NovelNestBooks/10-eye-opening-books-recommended-by-sam-altman-prepare-to-be-blown-away-like-i-was-56501fc0aea6
 
+OOP Blog
+https://thetkhine.medium.com/gentle-introduction-to-object-oriented-programming-part-1-935c36aeec17
+
 contact@za.com.mm
 Jmim6VG3NKxYQLZ
 <!---
