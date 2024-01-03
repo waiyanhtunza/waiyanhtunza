@@ -17,6 +17,9 @@ https://thetkhine.medium.com/gentle-introduction-to-object-oriented-programming-
 
 contact@za.com.mm
 Jmim6VG3NKxYQLZ
+
+laravel 10 
+https://www.youtube.com/watch?v=_LA9QsgJ0bw
 <!---
 waiyanhtunza/waiyanhtunza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
