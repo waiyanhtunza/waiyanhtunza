@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=CBYFNczOoaQ&list=PLLUtELdNs2ZYrYIZ0iw7b5fr9w0cLU
 
 Laravel Daily
 https://www.youtube.com/@LaravelDaily/playlists
+
+SQL vs NoSQL
+https://medium.com/codex/choosing-the-best-database-sql-vs-nosql-a816a7ec09fc#:~:text=A%20SQL%20database%20can%20process,hoc%20queries%20on%20structured%20data.&text=Querying%20data%20in%20NoSQL%20databases,they%20lack%20consistency%20between%20products.
