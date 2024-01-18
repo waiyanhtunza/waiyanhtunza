@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=iniIUcAKuLA&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-X
 
 Stack Developer( https://medium.com/@laraveltutorial10 )
 https://www.youtube.com/watch?v=CBYFNczOoaQ&list=PLLUtELdNs2ZYrYIZ0iw7b5fr9w0cLUgFR
+
+Laravel Daily
+https://www.youtube.com/@LaravelDaily/playlists
