@@ -24,3 +24,7 @@ https://www.youtube.com/watch?v=_LA9QsgJ0bw
 waiyanhtunza/waiyanhtunza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Code Tape
+yelo code 
+https://www.youtube.com/watch?v=iniIUcAKuLA&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU
