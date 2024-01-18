@@ -28,3 +28,6 @@ You can click the Preview link to take a look at your changes.
 Code Tape
 yelo code 
 https://www.youtube.com/watch?v=iniIUcAKuLA&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU
+
+Stack Developer( https://medium.com/@laraveltutorial10 )
+https://www.youtube.com/watch?v=CBYFNczOoaQ&list=PLLUtELdNs2ZYrYIZ0iw7b5fr9w0cLUgFR
