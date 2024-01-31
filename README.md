@@ -40,3 +40,6 @@ https://medium.com/codex/choosing-the-best-database-sql-vs-nosql-a816a7ec09fc#:~
 
 Twitter Clone Bootstrap Template
 https://github.com/yelocode/bootstrap5-twitter-clone-template
+
+Laravel 10 ecommerce Web site 
+https://www.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/?referralCode=2C333EC98CCC3C3BF3DE
