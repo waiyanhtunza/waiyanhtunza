@@ -6,6 +6,10 @@ waiyan12301830
 
 - Design Pattem
 - https://examples.sencha.com/extjs/7.7.0/examples/kitchensink/#d3-hierarchy
+
+- github host and domain
+- https://www.geeksforgeeks.org/how-to-host-a-website-on-github-for-free/
+  
 - 👋 Hi, I’m Wai Yan Htun
 - 👀 I’m interested code
 - 🌱 I’m currently learning PHP
