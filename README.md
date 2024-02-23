@@ -27,11 +27,7 @@ https://medium.com/@NovelNestBooks/10-eye-opening-books-recommended-by-sam-altma
 OOP Blog
 https://thetkhine.medium.com/gentle-introduction-to-object-oriented-programming-part-1-935c36aeec17
 
-contact@za.com.mm
-Jmim6VG3NKxYQLZ
 
-contact@za.com.mm
-Z#GH@s-57dqkFBg
 
 API Learning Myanmar
 https://www.youtube.com/@FullStackDEVMM/playlists
