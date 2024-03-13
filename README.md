@@ -1,11 +1,12 @@
 Notion
 <br/>
-
+<ol>
+  CPU Details Learning
+</ol>
 <ul>
   <li>Job Requirment</li>
   <li>Book Tracker</li>
 </ul>
-
 
 <br/>
 
